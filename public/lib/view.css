@@ -1,0 +1,14 @@
+.viewTitle{
+    width: 200px;
+    background-color: whitesmoke;
+    border: solid greenyellow;
+    border-radius: 5px;
+    padding: 5px;  
+}
+
+.viewNote{
+    background-color: whitesmoke;
+    border: solid red;
+    border-radius: 10px;
+    padding: 10px;  
+}
